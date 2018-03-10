@@ -88,7 +88,7 @@ int             service_status_has_been_read = FALSE;
 int             program_status_has_been_read = FALSE;
 
 int             refresh_rate = DEFAULT_REFRESH_RATE;
-int 			enable_page_tour = TRUE;
+int 			enable_page_tour = FALSE;
 int				result_limit = 100;
 
 int             escape_html_tags = FALSE;
